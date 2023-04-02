@@ -27,4 +27,3 @@ Este proyecto es una aplicación de React Native creada con Expo que permite a l
 
 ```bash
 git clone https://github.com/poconri/react-native-demo
-cd tuproyecto
